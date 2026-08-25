@@ -1,0 +1,10 @@
+{
+  "name": "My Custom Token",
+  "symbol": "MCT",
+  "type": "TRC20",
+  "decimals": 6,
+  "description": "An experimental TRC20 test token pegged to a value of $1 USD.",
+  "website": "https://github.com/BSSAMABUFRHAN/my-token-project",
+  "explorer": "https://tronscan.org/#/contract/TRKbVQ7cRB59tBDabjHngWXGktn15yCVs6",
+  "socials": []
+}
